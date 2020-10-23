@@ -4,7 +4,7 @@ You can find here my open source projects.
 
 ## Video games and engines
 
-I really enjoy working on video games and engines - plain and simple.
+I really enjoy working on video games and engines.
 
 The project I am working on the most at the moment is vkPhysics - the engine + game. I
 write articles on certain parts of the engine which I found a bit tricky to get working,
