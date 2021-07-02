@@ -6,10 +6,7 @@ You can find here my open source projects.
 
 I really enjoy working on video games and engines.
 
-The project I am working on the most at the moment is vkPhysics - the engine + game. I
-write articles on certain parts of the engine which I found a bit tricky to get working,
-notably the networking part to get real-time multiplayer support in a world that
-is completely deformable (you can find them here: https://llguy.github.io/).
+The project I am working on the most at the moment is Ondine - the engine + game. It is based on Ravel's "Ondine" piano piece. Blog articles coming soon!
 
 <!--
 **llGuy/llGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
