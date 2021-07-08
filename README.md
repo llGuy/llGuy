@@ -6,7 +6,7 @@ You can find here my open source projects.
 
 I really enjoy working on video games and engines.
 
-The project I am working on the most at the moment is Ondine. It is a game based on Ravel's "Ondine" piano piece.
+The project I am working on at the moment is Ondine. It is a game based on Ravel's "Ondine" piano piece.
 
 <!--
 **llGuy/llGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
